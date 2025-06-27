@@ -1,0 +1,7 @@
+streamlit
+transformers
+torch
+torchaudio
+pydub
+plotly
+ffmpeg-python
